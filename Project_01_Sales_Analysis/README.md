@@ -20,3 +20,14 @@ Source: Kaggle – Superstore / Retail Sales Dataset
 
 ## Status
 🚧 In Progress
+
+## Key Insights
+
+### Seasonal Trends
+- Sales show consistent peaks during the last quarter (October–December) across multiple years.
+- This indicates strong seasonal demand, likely driven by festive periods and year-end promotions.
+
+### Regional Performance
+- The West region contributes the highest share of total sales, highlighting strong regional demand.
+- Central and South regions show comparatively lower sales, suggesting potential growth opportunities.
+
