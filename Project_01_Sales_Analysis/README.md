@@ -31,3 +31,10 @@ Source: Kaggle – Superstore / Retail Sales Dataset
 - The West region contributes the highest share of total sales, highlighting strong regional demand.
 - Central and South regions show comparatively lower sales, suggesting potential growth opportunities.
 
+## Analysis Workflow
+- Data loading & cleaning
+- Feature engineering (month, year)
+- Seasonal trend analysis
+- Regional sales comparison
+
+
